@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutosRobadosMexico</string>
+    <!-- -
+    This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+    For more information, see https://support.google.com/admob/answer/3052638
+<!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-7927185138091691/5536818558</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-7927185138091691/1546669285</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-7927185138091691/1131257383</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-7927185138091691/3095075745</string>
+    <string name="banner_ad_unit_id5">ca-app-pub-7927185138091691/6435554956</string>
+    <string name="banner_ad_unit_id6">ca-app-pub-7927185138091691/6611975898</string>
+    <string name="banner_ad_unit_id7">ca-app-pub-7927185138091691/8160861284</string>
+    <string name="repuve_doc">Repuve</string>
+    <string name="rapi_doc">Rapi</string>
+    <string name="amis_doc">Amis</string>
+    <string name="amis_info">* Unicamente contiene informacion sobre vehiculos asegurados reportados como robados al sector Asegurador Mexicano Asociado</string>
+    <string name="title_activity_tools__tab">Tools_TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
